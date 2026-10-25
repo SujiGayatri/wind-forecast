@@ -48,5 +48,3 @@ AI assistance was used during development for code drafting, architecture discus
 ## Data source
 Elexon Insights/BMRS public APIs. No API key is required. The project uses the assignment-specified FUELHH and WINDFOR datasets.
 
-## Deployment
-Deploy the frontend and backend separately. For Vercel, set `VITE_API_URL` to the deployed backend URL. For the backend, deploy the Docker container to a container-capable host.
